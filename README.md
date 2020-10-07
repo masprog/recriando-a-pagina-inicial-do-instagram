@@ -5,7 +5,7 @@
 
 ### Tecnologias usadas:
 
-* [HTML básico](https://www.w3schools.com/html/)
-* [CSS básico](https://developer.mozilla.org/pt-BR/docs/Web/CSS)
+* [HTML 5](https://www.w3schools.com/html/)
+* [CSS 3](https://developer.mozilla.org/pt-BR/docs/Web/CSS)
 
 ## 🚀 Aprendendo! 🚀
